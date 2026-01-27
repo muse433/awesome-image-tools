@@ -3,8 +3,6 @@
 This is a curated list of high-quality online image processing tools and websites.
 It focuses on practical, well-designed, and actively maintained tools for everyday use.
 
-![logo.svg](image/logo.svg)
-
 ## Contents
 
 - [Compression](#compression)
