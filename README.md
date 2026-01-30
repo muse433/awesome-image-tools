@@ -23,6 +23,7 @@ Online tools for reducing image file size without noticeable quality loss.
 - [Squoosh](https://squoosh.app) – Advanced image compression tool by Google with fine-grained controls.
 - [Compress JPEG](https://compressjpeg.com) – Simple bulk JPEG image compression online.
 - [Compress 50 KB](https://compress50kb.com/) – Compress images to exactly 50 KB, ideal for strict size limits.
+- [BulkPicTools](https://bulkpictools.com/) - A privacy-first, client-side batch image processor (Compress, Convert, Crop) based on WebAssembly.
 
 ---
 
