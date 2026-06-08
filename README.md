@@ -47,6 +47,7 @@ Convert images between different formats.
 - [Online-Convert](https://image.online-convert.com) – Image conversion with optional advanced settings.
 
 - [FreePNGConvert](https://freepngconvert.com) – Free WebP to PNG converter. 100% client-side, no upload to server.
+- [FreePNGConvert](https://freepngconvert.com) – Free WebP to PNG converter. 100% client-side, no upload to server.
 ---
 
 ## Background Removal
