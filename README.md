@@ -45,6 +45,7 @@ Convert images between different formats.
 - [CloudConvert](https://cloudconvert.com) – High-quality image format conversion with API support.
 - [Convertio](https://convertio.co) – Supports a wide range of image formats and batch conversions.
 - [Online-Convert](https://image.online-convert.com) – Image conversion with optional advanced settings.
+- [FreePNGConvert](https://freepngconvert.com) – Free browser-side WebP to PNG converter. No upload to server, fast, private, unlimited conversions.
 
 ---
 
